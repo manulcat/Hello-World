@@ -24,9 +24,12 @@
 
 ### Games I want to play
 
-- [ ] ポケットモンスター Let's Go! イーブイ
+- [x] ポケットモンスター Let's Go! イーブイ
+- [x] ポケットモンスター シールド
 - [ ] スーパーマリオ RPG
 - [x] FINAL FANTASY VII REMAKE INTERGRADE
+- [x] FINAL FANTASY VII REBIRTH
 - [ ] Mass Effect Legendary Edition
+- [x] ユニコーンオーバーロード
 
 I'm lacking time. 😇😇😇
