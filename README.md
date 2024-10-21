@@ -26,7 +26,8 @@
 
 - [x] ポケットモンスター Let's Go! イーブイ
 - [x] ポケットモンスター シールド
-- [ ] スーパーマリオ RPG
+- [ ] ポケットモンスター ブリリアントダイヤモンド
+- [x] スーパーマリオ RPG
 - [x] FINAL FANTASY VII REMAKE INTERGRADE
 - [x] FINAL FANTASY VII REBIRTH
 - [ ] Mass Effect Legendary Edition
