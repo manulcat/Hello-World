@@ -9,10 +9,12 @@
 - [ ] TypeScript
 - [ ] Vue.js
 - [ ] PHP
+- [ ] Laravel
 - [ ] C#
 
 ### Books I want to read
 
+- [ ] 実務で使える メール技術の教科書
 - [ ] 初めての Go 言語
 - [ ] プログラミング TypeScript
 - [ ] GitHub 実践入門 -Pull Request による開発の変革-
@@ -30,6 +32,8 @@
 - [x] スーパーマリオ RPG
 - [x] FINAL FANTASY VII REMAKE INTERGRADE
 - [x] FINAL FANTASY VII REBIRTH
+- [ ] Sa・Ga COLLECTION
+- [ ] Romancing SaGa -Minstrel Song- Remastered
 - [ ] Mass Effect Legendary Edition
 - [x] ユニコーンオーバーロード
 
