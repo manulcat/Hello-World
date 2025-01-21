@@ -14,6 +14,8 @@
 
 ### Books I want to read
 
+- [ ] Laravel の教科書
+- [ ] Vue3 フロントエンド開発の教科書
 - [x] 実務で使える メール技術の教科書
 - [ ] 初めての Go 言語
 - [ ] プログラミング TypeScript
